@@ -11,3 +11,5 @@ a -> c;
 c -> d;
 ...
 }
+
+the patch file should describe all the changes that were made
